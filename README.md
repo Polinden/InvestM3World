@@ -1,7 +1,9 @@
 # Invest2M2World
 
-## Data Science
-## World Statistics Analysis
-on M2 to Investment Correlation
-in Python Jupyter Notebook:w
+## Data Science Experiment
+
+World Statistics Analysis
+on Correlation between M2 and Investment 
+done in Python Jupyter Notebook
+
  
