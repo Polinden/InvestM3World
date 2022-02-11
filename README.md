@@ -1,5 +1,5 @@
 # Invest2M2World
-
+<img src="./Money.png"/>
 ## Data Science Experiment
 
 World Statistics Analysis
