@@ -1,4 +1,4 @@
-# Invest2M2World
+# InvestM3World <img src="./Money.png" width=200 height=200/>
 
 ## Data Science Experiment
 
